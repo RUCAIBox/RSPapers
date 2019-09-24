@@ -5,7 +5,7 @@
 -	**Matrix Factorization Techniques for Recommender Systems.** *Yehuda Koren, Robert M. Bell, Chris Volinsky.* IEEE Computer 42(8): 30-37 (2009) [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)]
 -	**Factorization Machines with libFM.** *Steffen Rendle.* ACM TIST 3(3): 57 (2012) [[pdf](https://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf)]
 -	**The recommender problem revisited: tutorial.** *Xavier Amatriain, Bamshad Mobasher.* KDD 2014 [[pdf](https://www.kdd.org/kdd2014/tutorials/KDD%20-%20The%20Recommender%20Problem%20Revisited.pdf)]
-### Representative deep learning based recommendation
+### Deep learning for modeling interactions
 -	**深度学习在推荐算法中的研究进展.** *赵鑫.* 中国人工智能学会通讯.2016年第七期. [[pdf](https://www.caai.cn/index.php?s=/home/file/download/id/108.html)]
 -	**Neural Collaborative Filtering.** *Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua.* WWW 2017: 173-182 [[pdf](https://arxiv.org/pdf/1708.05031.pdf)]
 -	**A Neural Network Approach to Jointly Modeling Social Networks and Mobile Trajectories.** *Cheng Yang, Maosong Sun, Wayne Xin Zhao, Zhiyuan Liu, Edward Y. Chang.* ACM Trans. Inf. Syst. 35(4): 36:1-36:28 (2017) [[pdf](https://arxiv.org/pdf/1606.08154.pdf)]
@@ -14,7 +14,7 @@
 -	**Self-Attentive Sequential Recommendation.** *Wang-Cheng Kang, Julian J. McAuley.* ICDM 2018: 197-206 [[pdf](https://arxiv.org/pdf/1808.09781.pdf)]
 -	**BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer.** *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang.* CoRR abs/1904.06690 (2019) [[pdf](https://arxiv.org/pdf/1904.06690.pdf)]
 
-### Context-aware recommendation:
+### Deep learning for modeling context:
 -	**Deep Neural Networks for YouTube Recommendations.** *Paul Covington, Jay Adams, Emre Sargin.* RecSys 2016: 191-19 [[pdf](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)]
 -	**DeepFM: A Factorization-Machine based Neural Network for CTR Prediction.** *Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He.* IJCAI 2017: 1725-1731 [[pdf](https://www.ijcai.org/proceedings/2017/0239.pdf)]
 -	**Wide & Deep Learning for Recommender Systems.** *Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa Ispir, Rohan Anil, Zakaria Haque, Lichan Hong, Vihan Jain, Xiaobing Liu, Hemal Shah.* DLRS@RecSys 2016: 7-10 [[pdf](https://arxiv.org/pdf/1606.07792.pdf)]
@@ -46,7 +46,7 @@
 - **Reinforcement Knowledge Graph Reasoning for Explainable Recommendation.** *Yikun Xian, Zuohui Fu, S. Muthukrishnan, Gerard de Melo, Yongfeng Zhang.* SIGIR 2019: 285-294 [[paper](https://dl.acm.org/citation.cfm?id=3331203)]
 - **Deep reinforcement learning for page-wise recommendations.** *Xiangyu Zhao, Long Xia, Liang Zhang, Zhuoye Ding, Dawei Yin, Jiliang Tang.* RecSys 2018: 95-103 [[paper](https://dl.acm.org/citation.cfm?id=3240374)]
 
-### Interactive, conversational recommendation
+### Interactive/conversational recommendation
 
 - **Towards Conversational Recommender Systems.** *Konstantina Christakopoulou, Filip Radlinski, Katja Hofmann.* KDD 2016: 815-824 [[paper](https://dl.acm.org/citation.cfm?id=2939746)]
 - **Local Representative-Based Matrix Factorization for Cold-Start Recommendation.** *Lei Shi, Wayne Xin Zhao, Yi-Dong Shen.* ACM Trans. Inf. Syst. 36(2): 22:1-22:28 (2017) [[paper](https://dl.acm.org/citation.cfm?id=3108148)]
