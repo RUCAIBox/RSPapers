@@ -57,6 +57,8 @@ For papers who have not entered the list for important work, please feel free to
 ## Contact
 
 + **WeChat Official Account:RUC AI Box** 
+
 [![detail statistics](https://github.com/RUCAIBox/RSPapers/blob/master/wechat_code.jpg)](https://github.com/RUCAIBox/RSPapers/blob/master/wechat_code.jpg)
+
 + **ZhiHu:** [RUC AI Box](https://zhuanlan.zhihu.com/RucAIBox)
 + **Website:** [RUC AI Box](http://aibox.ruc.edu.cn/)
