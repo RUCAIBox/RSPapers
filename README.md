@@ -6,7 +6,7 @@ For papers who have not entered the list for important work, please feel free to
 -	**Factorization Machines with libFM.** *Steffen Rendle.* ACM TIST 3(3): 57 (2012)
 -	**The recommender problem revisited: tutorial.** *Xavier Amatriain, Bamshad Mobasher.* KDD 2014
 
-### Deep learning characterize interactions (binary interactions, sequence interactions) papers:
+### Representative deep learning based recommendation
 -	**深度学习在推荐算法中的研究进展.** *赵鑫.* 中国人工智能学会通讯.2016年第七期. 
 -	**Neural Collaborative Filtering.** *Xiangnan He, Lizi Liao, Hanwang Zhang, Liqiang Nie, Xia Hu, Tat-Seng Chua.* WWW 2017: 173-182
 -	**A Neural Network Approach to Jointly Modeling Social Networks and Mobile Trajectories.** *Cheng Yang, Maosong Sun, Wayne Xin Zhao, Zhiyuan Liu, Edward Y. Chang* ACM Trans. Inf. Syst. 35(4): 36:1-36:28 (2017)
@@ -15,7 +15,7 @@ For papers who have not entered the list for important work, please feel free to
 -	**Self-Attentive Sequential Recommendation.** *Wang-Cheng Kang, Julian J. McAuley* ICDM 2018: 197-206
 -	**BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer.** *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang* CoRR abs/1904.06690 (2019)
 
-### Deep learning to characterize background data（context modeling）papers:
+### Context-aware recommendation:
 -	**Deep Neural Networks for YouTube Recommendations.** *Paul Covington, Jay Adams, Emre Sargin* RecSys 2016: 191-19
 -	**DeepFM: A Factorization-Machine based Neural Network for CTR Prediction.** *Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He* IJCAI 2017: 1725-1731
 -	**Wide & Deep Learning for Recommender Systems.** *Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa Ispir, Rohan Anil, Zakaria Haque, Lichan Hong, Vihan Jain, Xiaobing Liu, Hemal Shah* DLRS@RecSys 2016: 7-10
