@@ -53,3 +53,8 @@ For papers who have not entered the list for important work, please feel free to
 - **Conversational Recommender System.** *Yueming Sun, Yi Zhang.* SIGIR 2018: 235-244 [[paper](https://dl.acm.org/citation.cfm?id=3210002)]
 - **Towards Deep Conversational Recommendations.** *Raymond Li, Samira Ebrahimi Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, Chris Pal.* NeurIPS 2018: 9748-9758 [[paper](https://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations)]
 - **Large-Scale Interactive Recommendation with Tree-Structured Policy Gradient.** *Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu.* AAAI 2019: 3312-3320 [[paper](https://arxiv.org/pdf/1811.05869.pdf)]
+
+## Contact
+WeChat Official Account: RUC AI Box
+ZhiHu: RUC AI Box(https://zhuanlan.zhihu.com/RucAIBox)
+Website: RUC AI Box(http://aibox.ruc.edu.cn/)
