@@ -1,7 +1,7 @@
 # Recommender System Papers
 对于出现重要工作未进入列表的情况，欢迎大家**邮件**联系[rucaibox@163.com](mailto:shuqingbian@gmail.com)，我们将第一时间进行增补和持续维护。
 
-### Classic papers:
+### Classic papers
 -	**Matrix Factorization Techniques for Recommender Systems.** *Yehuda Koren, Robert M. Bell, Chris Volinsky.* IEEE Computer 42(8): 30-37 (2009) [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)]
 -	**Factorization Machines with libFM.** *Steffen Rendle.* ACM TIST 3(3): 57 (2012) [[pdf](https://www.csie.ntu.edu.tw/~b97053/paper/Factorization%20Machines%20with%20libFM.pdf)]
 -	**The recommender problem revisited: tutorial.** *Xavier Amatriain, Bamshad Mobasher.* KDD 2014 [[pdf](https://www.kdd.org/kdd2014/tutorials/KDD%20-%20The%20Recommender%20Problem%20Revisited.pdf)]
@@ -14,7 +14,7 @@
 -	**Self-Attentive Sequential Recommendation.** *Wang-Cheng Kang, Julian J. McAuley.* ICDM 2018: 197-206 [[pdf](https://arxiv.org/pdf/1808.09781.pdf)]
 -	**BERT4Rec: Sequential Recommendation with Bidirectional Encoder Representations from Transformer.** *Fei Sun, Jun Liu, Jian Wu, Changhua Pei, Xiao Lin, Wenwu Ou, Peng Jiang.* CoRR abs/1904.06690 (2019) [[pdf](https://arxiv.org/pdf/1904.06690.pdf)]
 
-### Deep learning for modeling context:
+### Deep learning for modeling context
 -	**Deep Neural Networks for YouTube Recommendations.** *Paul Covington, Jay Adams, Emre Sargin.* RecSys 2016: 191-19 [[pdf](https://static.googleusercontent.com/media/research.google.com/zh-CN//pubs/archive/45530.pdf)]
 -	**DeepFM: A Factorization-Machine based Neural Network for CTR Prediction.** *Huifeng Guo, Ruiming Tang, Yunming Ye, Zhenguo Li, Xiuqiang He.* IJCAI 2017: 1725-1731 [[pdf](https://www.ijcai.org/proceedings/2017/0239.pdf)]
 -	**Wide & Deep Learning for Recommender Systems.** *Heng-Tze Cheng, Levent Koc, Jeremiah Harmsen, Tal Shaked, Tushar Chandra, Hrishi Aradhye, Glen Anderson, Greg Corrado, Wei Chai, Mustafa Ispir, Rohan Anil, Zakaria Haque, Lichan Hong, Vihan Jain, Xiaobing Liu, Hemal Shah.* DLRS@RecSys 2016: 7-10 [[pdf](https://arxiv.org/pdf/1606.07792.pdf)]
