@@ -1,5 +1,5 @@
 # RecommenderSystemPapers
-For papers who have not entered the list for important work, please feel free to contact us by **email** [rucaibox@163.com](mailto:shuqingbian@gmail.com) and we will make additional updates and ongoing maintenance.
+对于出现重要工作未进入列表的情况，欢迎大家**邮件**联系[rucaibox@163.com](mailto:shuqingbian@gmail.com)，我们将第一时间进行增补和持续维护。
 
 ### Classic papers:
 -	**Matrix Factorization Techniques for Recommender Systems.** *Yehuda Koren, Robert M. Bell, Chris Volinsky.* IEEE Computer 42(8): 30-37 (2009) [[pdf](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=5197422)]
@@ -54,11 +54,11 @@ For papers who have not entered the list for important work, please feel free to
 - **Towards Deep Conversational Recommendations.** *Raymond Li, Samira Ebrahimi Kahou, Hannes Schulz, Vincent Michalski, Laurent Charlin, Chris Pal.* NeurIPS 2018: 9748-9758 [[paper](https://papers.nips.cc/paper/8180-towards-deep-conversational-recommendations)]
 - **Large-Scale Interactive Recommendation with Tree-Structured Policy Gradient.** *Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu.* AAAI 2019: 3312-3320 [[paper](https://arxiv.org/pdf/1811.05869.pdf)]
 
-## Contact
+## 联系方式
 
-+ **WeChat Official Account:RUC AI Box** 
++ **微信公众号:RUC AI Box** 
 
 [![detail statistics](https://github.com/RUCAIBox/RSPapers/blob/master/wechat_code.jpg)](https://github.com/RUCAIBox/RSPapers/blob/master/wechat_code.jpg)
 
-+ **ZhiHu:** [RUC AI Box](https://zhuanlan.zhihu.com/RucAIBox)
-+ **Website:** [RUC AI Box](http://aibox.ruc.edu.cn/)
++ **知乎专栏:** [RUC AI Box](https://zhuanlan.zhihu.com/RucAIBox)
++ **网站:** [RUC AI Box](http://aibox.ruc.edu.cn/)
