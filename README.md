@@ -1,4 +1,4 @@
-# RecommenderSystemPapers
+# Recommender System Papers
 对于出现重要工作未进入列表的情况，欢迎大家**邮件**联系[rucaibox@163.com](mailto:shuqingbian@gmail.com)，我们将第一时间进行增补和持续维护。
 
 ### Classic papers:
