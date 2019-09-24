@@ -55,6 +55,7 @@ For papers who have not entered the list for important work, please feel free to
 - **Large-Scale Interactive Recommendation with Tree-Structured Policy Gradient.** *Haokun Chen, Xinyi Dai, Han Cai, Weinan Zhang, Xuejian Wang, Ruiming Tang, Yuzhou Zhang, Yong Yu.* AAAI 2019: 3312-3320 [[paper](https://arxiv.org/pdf/1811.05869.pdf)]
 
 ## Contact
-WeChat Official Account: RUC AI Box
-ZhiHu: RUC AI Box(https://zhuanlan.zhihu.com/RucAIBox)
-Website: RUC AI Box(http://aibox.ruc.edu.cn/)
+
++ **WeChat Official Account:RUC AI Box** 
++ **ZhiHu:** RUC AI Box(https://zhuanlan.zhihu.com/RucAIBox)
++ **Website:** RUC AI Box(http://aibox.ruc.edu.cn/)
