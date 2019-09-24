@@ -57,5 +57,6 @@ For papers who have not entered the list for important work, please feel free to
 ## Contact
 
 + **WeChat Official Account:RUC AI Box** 
-+ **ZhiHu:** RUC AI Box(https://zhuanlan.zhihu.com/RucAIBox)
-+ **Website:** RUC AI Box(http://aibox.ruc.edu.cn/)
+
++ **ZhiHu:** [RUC AI Box]https://zhuanlan.zhihu.com/RucAIBox)
++ **Website:** [RUC AI Box](http://aibox.ruc.edu.cn/)
